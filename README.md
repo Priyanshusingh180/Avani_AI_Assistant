@@ -20,4 +20,3 @@ A lightweight AI-Assistance built with React and Google's Gemini API.
 
 ## 🌐 Live Demo  
 Experience Avani: [avani-priyanshu-ai.netlify.app] 
-*(Click to open)*  
